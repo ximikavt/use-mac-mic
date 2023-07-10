@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6A85D354-44E9-43AF-9655-D81D6A6E413D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9BE002F-6EFD-4528-B9E1-645172AF63C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "audio_switch.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "setMacMic()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "F9BE002F-6EFD-4528-B9E1-645172AF63C3 - 187d27f1e5f78e19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "setMacMic"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "F9BE002F-6EFD-4528-B9E1-645172AF63C3 - 187d27f1e5f78e19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "setMacMic"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "F9BE002F-6EFD-4528-B9E1-645172AF63C3 - 187d27f1e5f78c66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "setMacMic"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "F9BE002F-6EFD-4528-B9E1-645172AF63C3 - 187d27f1e5f781bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "setMacMic"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1729819-0E3D-4E2D-96AB-8FFDAA50A47F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "audio_switch.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
+            landmarkName = "runAudioSwitch(argc, argv)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "A1729819-0E3D-4E2D-96AB-8FFDAA50A47F - 9e8781e886e2c411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "runAudioSwitch"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "1688">
+               </Location>
+               <Location
+                  uuid = "A1729819-0E3D-4E2D-96AB-8FFDAA50A47F - 9e8781e886e2c432"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "runAudioSwitch"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "203"
+                  endingLineNumber = "203"
+                  offsetFromSymbolStart = "1560">
+               </Location>
+               <Location
+                  uuid = "A1729819-0E3D-4E2D-96AB-8FFDAA50A47F - 9e8781e886e2c78d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "runAudioSwitch"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "1560">
+               </Location>
+               <Location
+                  uuid = "A1729819-0E3D-4E2D-96AB-8FFDAA50A47F - 9e8781e886e2c4d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "runAudioSwitch"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "1560">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8783E2A1-5848-4AC2-A05B-49D116E1F047"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "audio_switch.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "722"
+            endingLineNumber = "722"
+            landmarkName = "showAllDevices(typeRequested, outputRequested)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "8783E2A1-5848-4AC2-A05B-49D116E1F047 - 751c699ba0d5a1a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "showAllDevices"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "760"
+                  endingLineNumber = "760"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "8783E2A1-5848-4AC2-A05B-49D116E1F047 - 751c699ba0d5a33c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "showAllDevices"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "749"
+                  endingLineNumber = "749"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "8783E2A1-5848-4AC2-A05B-49D116E1F047 - 751c699ba0d5a18a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "showAllDevices"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "759"
+                  endingLineNumber = "759"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "8783E2A1-5848-4AC2-A05B-49D116E1F047 - 751c699ba0d5a10e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "showAllDevices"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "763"
+                  endingLineNumber = "763"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "8783E2A1-5848-4AC2-A05B-49D116E1F047 - 751c699ba0d5a6b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "showAllDevices"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "722"
+                  endingLineNumber = "722"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "8783E2A1-5848-4AC2-A05B-49D116E1F047 - 751c699ba0d5a6b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "showAllDevices"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "722"
+                  endingLineNumber = "722"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEEBEBE7-80AF-4D15-9DBF-42B51D52BB95"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "audio_switch.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "753"
+            endingLineNumber = "753"
+            landmarkName = "showAllDevices(typeRequested, outputRequested)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "EEEBEBE7-80AF-4D15-9DBF-42B51D52BB95 - 751c699ba0d5adaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "showAllDevices"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "791"
+                  endingLineNumber = "791"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "EEEBEBE7-80AF-4D15-9DBF-42B51D52BB95 - 751c699ba0d5af3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "showAllDevices"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "780"
+                  endingLineNumber = "780"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "EEEBEBE7-80AF-4D15-9DBF-42B51D52BB95 - 751c699ba0d5ad8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "showAllDevices"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "790"
+                  endingLineNumber = "790"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "EEEBEBE7-80AF-4D15-9DBF-42B51D52BB95 - 751c699ba0d5ad0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "showAllDevices"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "794"
+                  endingLineNumber = "794"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "EEEBEBE7-80AF-4D15-9DBF-42B51D52BB95 - 751c699ba0d5a2b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "showAllDevices"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "753"
+                  endingLineNumber = "753"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "EEEBEBE7-80AF-4D15-9DBF-42B51D52BB95 - 751c699ba0d5a2b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "showAllDevices"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/audio_switch.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "753"
+                  endingLineNumber = "753"
+                  offsetFromSymbolStart = "396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67F53CCA-535A-4C89-B92C-25CEACA79A96"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "audio_switch.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "setMacMic()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
