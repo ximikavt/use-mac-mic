@@ -6,20 +6,25 @@
 //
 import SwiftUI
 
-class AppDelegate: NSObject, NSApplicationDelegate {
+class AppDelegate: NSObject, NSApplicationDelegate, NSMenuDelegate {
     static private(set) var instance: AppDelegate!
-    @State private var timer = Timer()
+    var timer: Timer!
     lazy var statusBarItem = NSStatusBar.system.statusItem(withLength: NSStatusItem.variableLength);
     var statusBarMenu: NSMenu!
-    
+    var updateMenuItem = NSMenuItem(title: "Disable AutoUpdate", action: #selector(toggleTimer), keyEquivalent: "a")
     func applicationDidFinishLaunching(_ notification: Notification) {
         AppDelegate.instance = self
         initializeStatusBarItem()
         iniitalizeMenu()
+        startTimer()
+    }
+    
+    private func startTimer()  {
         timer = Timer.scheduledTimer(withTimeInterval: 1, repeats: true, block: { _ in
             self.updateStatusBarIcon()
         })
     }
+    
     private func initializeStatusBarItem(){
         statusBarItem.button?.image = getAppIcon()
         statusBarItem.button?.image?.isTemplate = true
@@ -30,11 +35,14 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     }
     private func iniitalizeMenu() {
         statusBarMenu = NSMenu()
+        statusBarMenu.addItem(updateMenuItem)
+        statusBarMenu.addItem(.separator())
         statusBarMenu.addItem(
             withTitle: "Exit",
             action: #selector(exitApp),
             keyEquivalent: "e"
         )
+        statusBarMenu.delegate = self
     }
     
     func toggleSelectedMic() {
@@ -51,9 +59,21 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
         if event.type ==  NSEvent.EventType.rightMouseUp {
             statusBarItem.menu = statusBarMenu
-            statusBarItem.button?.performClick(nil)
+            statusBarMenu.popUp(positioning: nil, at: NSPoint(x: 0, y: statusBarItem.statusBar!.thickness), in: statusBarItem.button)
+            statusBarItem.menu = nil
         } else {
             toggleSelectedMic()
+        }
+    }
+    
+    @objc func toggleTimer() {
+        if (timer != nil) {
+            timer.invalidate()
+            timer = nil
+            updateMenuItem.title = "Enable AutoUpdate"
+        } else {
+            startTimer()
+            updateMenuItem.title = "Disable AutoUpdate"
         }
     }
     
