@@ -396,16 +396,298 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "7DD38E70-5379-4A9B-B327-B39B22CCA373"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UseMacMic/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "toggleTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7DD38E70-5379-4A9B-B327-B39B22CCA373 - 286256252399855b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.statusBarButtonClicked(sender: __C.NSStatusBarButton) -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "7DD38E70-5379-4A9B-B327-B39B22CCA373 - 286256252399857a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.statusBarButtonClicked(sender: __C.NSStatusBarButton) -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "7DD38E70-5379-4A9B-B327-B39B22CCA373 - 993d4cb7d16ffaa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.toggleTimer() -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "7DD38E70-5379-4A9B-B327-B39B22CCA373 - 993d4cb7d16ffaa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.toggleTimer() -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "492">
+               </Location>
+               <Location
+                  uuid = "7DD38E70-5379-4A9B-B327-B39B22CCA373 - 993d4cb7d16ffaa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.toggleTimer() -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "7DD38E70-5379-4A9B-B327-B39B22CCA373 - 993d4cb7d16ffaa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.toggleTimer() -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "7DD38E70-5379-4A9B-B327-B39B22CCA373 - 993d4cb7d16ffaa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.toggleTimer() -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "7DD38E70-5379-4A9B-B327-B39B22CCA373 - 993d4cb7d16ffaa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.toggleTimer() -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BF6F410-2562-43B8-907F-705A82D70A26"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "UseMacMic/AppDelegate.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "50"
-            endingLineNumber = "50"
-            landmarkName = "statusBarButtonClicked(sender:)"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "toggleTimer()"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC194CA7-572D-48E1-A68C-4B52838AA877"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UseMacMic/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "toggleTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC194CA7-572D-48E1-A68C-4B52838AA877 - 442ab3cdd6349404"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.exitApp() -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "FC194CA7-572D-48E1-A68C-4B52838AA877 - 286256252399853c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.statusBarButtonClicked(sender: __C.NSStatusBarButton) -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "604">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B5F0E9A-ABB1-40EA-ABF9-3DBA4E5E2360"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UseMacMic/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "updateStatusBarIcon()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7B5F0E9A-ABB1-40EA-ABF9-3DBA4E5E2360 - 442ab3cdd6349425"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.exitApp() -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "7B5F0E9A-ABB1-40EA-ABF9-3DBA4E5E2360 - 2862562523998581"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.statusBarButtonClicked(sender: __C.NSStatusBarButton) -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C2AE95E-E1B0-40C9-822A-368BBC1750D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UseMacMic/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "toggleTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2C2AE95E-E1B0-40C9-822A-368BBC1750D7 - 993d4cb7d16ff90e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.toggleTimer() -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "2C2AE95E-E1B0-40C9-822A-368BBC1750D7 - 993d4cb7d16ff90e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UseMacMic.AppDelegate.toggleTimer() -&gt; ()"
+                  moduleName = "UseMacMic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ximikavt/Documents/dev/UseMacMic/UseMacMic/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
