@@ -7,22 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F4CA13E2A68300000DAFE12 /* AudioSwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4CA13D2A68300000DAFE12 /* AudioSwitch.swift */; };
 		5F99CB012A58249400C01408 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F99CB002A58249400C01408 /* Assets.xcassets */; };
 		5F99CB042A58249400C01408 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F99CB032A58249400C01408 /* Preview Assets.xcassets */; };
 		5F99CB142A5838D700C01408 /* UseMacMicApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F99CB132A5838D700C01408 /* UseMacMicApp.swift */; };
-		5F99CB182A599CE100C01408 /* audio_switch.c in Sources */ = {isa = PBXBuildFile; fileRef = 5F99CB172A599CE100C01408 /* audio_switch.c */; };
 		5F99CB1A2A5BF43E00C01408 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F99CB192A5BF43E00C01408 /* AppDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5F4CA13D2A68300000DAFE12 /* AudioSwitch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioSwitch.swift; sourceTree = "<group>"; };
 		5F99CAF92A58249400C01408 /* UseMacMic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UseMacMic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F99CB002A58249400C01408 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F99CB032A58249400C01408 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5F99CB052A58249400C01408 /* UseMacMic.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = UseMacMic.entitlements; sourceTree = "<group>"; };
 		5F99CB132A5838D700C01408 /* UseMacMicApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UseMacMicApp.swift; sourceTree = "<group>"; };
-		5F99CB152A599CE000C01408 /* UseMacMic-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UseMacMic-Bridging-Header.h"; sourceTree = "<group>"; };
-		5F99CB162A599CE100C01408 /* audio_switch.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = audio_switch.h; sourceTree = "<group>"; };
-		5F99CB172A599CE100C01408 /* audio_switch.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = audio_switch.c; sourceTree = "<group>"; };
 		5F99CB192A5BF43E00C01408 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -40,11 +38,8 @@
 		5F99CAF02A58249400C01408 = {
 			isa = PBXGroup;
 			children = (
-				5F99CB162A599CE100C01408 /* audio_switch.h */,
-				5F99CB172A599CE100C01408 /* audio_switch.c */,
 				5F99CAFB2A58249400C01408 /* UseMacMic */,
 				5F99CAFA2A58249400C01408 /* Products */,
-				5F99CB152A599CE000C01408 /* UseMacMic-Bridging-Header.h */,
 			);
 			sourceTree = "<group>";
 		};
@@ -64,6 +59,7 @@
 				5F99CB022A58249400C01408 /* Preview Content */,
 				5F99CB132A5838D700C01408 /* UseMacMicApp.swift */,
 				5F99CB192A5BF43E00C01408 /* AppDelegate.swift */,
+				5F4CA13D2A68300000DAFE12 /* AudioSwitch.swift */,
 			);
 			path = UseMacMic;
 			sourceTree = "<group>";
@@ -147,9 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F4CA13E2A68300000DAFE12 /* AudioSwitch.swift in Sources */,
 				5F99CB1A2A5BF43E00C01408 /* AppDelegate.swift in Sources */,
 				5F99CB142A5838D700C01408 /* UseMacMicApp.swift in Sources */,
-				5F99CB182A599CE100C01408 /* audio_switch.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -189,6 +185,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -249,6 +246,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -280,6 +278,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"UseMacMic/Preview Content\"";
 				DEVELOPMENT_TEAM = M7D42BQMPP;
 				ENABLE_PREVIEWS = YES;
@@ -313,6 +312,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"UseMacMic/Preview Content\"";
 				DEVELOPMENT_TEAM = M7D42BQMPP;
 				ENABLE_PREVIEWS = YES;
